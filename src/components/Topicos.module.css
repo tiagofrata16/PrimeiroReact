@@ -1,0 +1,17 @@
+.containerTopicos {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.topico {
+    display: flex;
+}
+
+.topico img {
+    width: 100px;
+}
+
+.topicoTitulo {
+    font-size: 20px;
+}

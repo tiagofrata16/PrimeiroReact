@@ -1,0 +1,17 @@
+.main img {
+    width: 600px;
+}
+
+.mainText {
+    display: flex;
+    gap: 160px;
+}
+
+.mainText h1 {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.mainText p {
+    font-size: 13px;
+}

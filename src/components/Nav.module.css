@@ -1,0 +1,9 @@
+.nav {
+    display: flex;
+    gap: 35px;
+}
+
+.nav a {
+    color:  hsl(236, 13%, 42%);
+    font-weight: 400;
+}

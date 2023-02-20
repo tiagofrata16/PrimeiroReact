@@ -1,12 +1,14 @@
+import styles from './Nav.module.css'
+
 function Nav() {
   return (
-    <nav>
-        <a>Home</a>
-        <a>New</a>
-        <a>Popular</a>
-        <a>Home</a>
-        <a>Trending</a>
-        <a>Categories</a>
+    <nav className = {styles.nav}>
+        <a href="localhost:3000">Home</a>
+        <a href="localhost:3000">New</a>
+        <a href="localhost:3000">Popular</a>
+        <a href="localhost:3000">Home</a>
+        <a href="localhost:3000">Trending</a>
+        <a href="localhost:3000">Categories</a>
     </nav>
   );
 }
