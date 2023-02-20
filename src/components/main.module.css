@@ -3,15 +3,34 @@
 }
 
 .mainText {
+    margin-top: 40px;
     display: flex;
-    gap: 160px;
+    gap: 80px;
 }
-
+/*INFORMAR SOBRE AS FONTS-README-SITE*/
 .mainText h1 {
-    font-size: 30px;
-    font-weight: 700;
+    color: hsl(240, 100%, 5%);
+    font-size: 45px;
+    font-weight: 800;
+    line-height: 1;
 }
 
 .mainText p {
     font-size: 13px;
+    color:  hsl(236, 13%, 42%);
+    margin-bottom: 20px;
+    line-height: 1.5; /*propriedade que define espaco entre linhas de um paragrafo*/
 }
+
+.mainText button {
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 2px; /*propriedade que espaca as letras*/
+    width: 160px;
+    background-color: hsl(5, 85%, 63%);
+    border: none;
+    padding: 14px 0px;
+    color: hsl(36, 100%, 99%);
+}
+
+
