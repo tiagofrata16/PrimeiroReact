@@ -1,11 +1,14 @@
 .containerTopicos {
+    margin-top: 50px;
     display: flex;
     justify-content: center;
-    gap: 10px;
+    gap: 45px;
+    margin-bottom: 40px;
 }
 
 .topico {
     display: flex;
+    gap: 30px;
 }
 
 .topico img {
@@ -13,5 +16,15 @@
 }
 
 .topicoTitulo {
-    font-size: 20px;
+    font-size: 17px;
+    color: hsl(240, 100%, 5%);/*Very dark blue*/
+}
+
+.topicoParagrafo {
+    font-size: 13px;
+    color:  hsl(236, 13%, 42%); /*Dark grayish blue*/
+}
+
+.numero {
+    color: hsl(233, 8%, 79%);/*Grayish blue*/
 }

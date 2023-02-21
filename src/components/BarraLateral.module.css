@@ -1,12 +1,28 @@
 .barraLateral {
     background-color: hsl(240, 100%, 5%);
-    width: 420px;
+    width: 350px;
+    /*padding: 0px 25px 0px 25px;*/
 }
 
 .barraLateral h1 {
     color: hsl(35, 77%, 62%);
+    margin-top: 25px;
+    font-size: 40px;
 }
 
-.barraLateral h2, p {
+.barraLateral h2 {
     color: hsl(36, 100%, 99%);
+    margin-top: 20px;
+    font-size: 24px;
+}
+
+.barraLateral .titulo3, .barraLateral .titulo2 {
+    padding-top: 20px;
+    border-top: 1px solid hsl(233, 8%, 79%);
+}
+
+.barraLateral p {
+    color: hsl(233, 8%, 79%);
+    margin-top: 7px;
+    font-size: 17px; 
 }
