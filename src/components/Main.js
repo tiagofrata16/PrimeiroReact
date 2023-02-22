@@ -10,7 +10,7 @@ function Main() {
                      Future of<br/>
                       Web 3.0?</h1>
                 <div>
-                    <p>We dive into the next evolution of web that<br/>
+                    <p>We dive into the next evolution of the web that<br/>
                     claims to put the power of the platforms back<br/>
                     into the hands of the people. But is it really<br/>
                     fulfilling its promise?
